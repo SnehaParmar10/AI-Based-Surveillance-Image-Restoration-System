@@ -5,8 +5,7 @@
 - **Roll No:** 2301010398  
 - **Course:** B.Tech CSE  
 - **Subject:** Image Processing  
-- **Assignment:** Surveillance Image Restoration System  
-- **Date:** 25-02-2026  
+- **Assignment:** Surveillance Image Restoration System
 
 ---
 
