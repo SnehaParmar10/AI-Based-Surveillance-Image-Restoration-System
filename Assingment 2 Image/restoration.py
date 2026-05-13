@@ -1,7 +1,7 @@
 # ==========================================================
 # Name: Sneha Parmar
 # Roll No: 2301010398
-# Course: B.Tech CSE
+# Course: B.Tech CSE SEC "F"
 # Unit: Image Processing
 # Assignment Title: Surveillance Image Restoration System
 # Date: 25-02-2026
