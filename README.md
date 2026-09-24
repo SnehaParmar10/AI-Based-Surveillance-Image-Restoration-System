@@ -1,4 +1,4 @@
-hhs...u# 📷 AI-Based Surveillance Image Restoration System
+# 📷 AI-Based Surveillance Image Restoration System
 
 ## 👨‍🎓 Student Details
 - **Name:** Sneha Parmar 
